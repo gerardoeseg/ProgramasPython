@@ -2,6 +2,7 @@
 # Conditional if
 # Extracted from: https://goo.gl/ZA4DRh
 
+# Input of a number
 number = int(raw_input("Write an integer, please: "))
 
 if number < 0:
@@ -12,4 +13,4 @@ elif number == 0:
 elif number == 1:
     print 'Single number'
 else:
-    print 'Greater than one'    
+    print 'Greater than one'
