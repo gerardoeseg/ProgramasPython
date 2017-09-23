@@ -1,4 +1,5 @@
 # Showing de basic data types and variables on Python
+# Strings, booleans and integers
 # Extracted from: https://goo.gl/vnT6hp
 
 # Integer types examples--------------------------------------------------------
