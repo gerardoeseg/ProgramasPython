@@ -4,7 +4,7 @@
 
 datos = []  # Lista (arreglo) donde se van a guardar los dos numeros
 # Suponiendo que existe un archivo 'numeros' lo abre y lo guarda en 'archivo'
-with open("numeros") as archivo:
+with open("numeros.txt") as archivo:
     # Lee la linea del archivo
     for line in archivo:
         # Metodo 'append' va agregando los valores en la lista
